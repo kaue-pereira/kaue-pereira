@@ -1,7 +1,4 @@
-## olá!! eu sou o kauê 
-
-- 🔭 Atualmente estou estudando ADS.
-- 🌱 Atualmente estou aprendendo (HTML5, CSS e Java Script)
+## olá eu sou o kauê, estudante na areá de tenologia!
 
 <div align="center">
 <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=kaue-pereira&show_icons=true&theme=dracula" />
@@ -9,7 +6,7 @@
 </div>/
 
 <div>
-<img aling="center" helght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+
 <img aling="center" helght="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img aling="center" helght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img aling="center" helght="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
